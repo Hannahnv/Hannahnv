@@ -24,19 +24,18 @@
 ### My Favourite IDES:
 <img src = "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> <img src = "https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hannahnv&show_icons=true&locale=en&layout=compact" alt="hannahnv" /></
 
-<details>
-<p align="center">
+<p align="left">
   <a href="https://github.com/Hannahnv">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hannahnv&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hannahnv&theme=calm" />
   </a>
   <a href="https://github.com/Hannahnv">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hannahnv&hide_border=true&card_width=338&theme=transparent" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hannahnv&hide_border=true&card_width=338&theme=calm" />
   </a>
   <a href="https://github.com/Hannahnv">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hannahnv&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hannahnv&theme=calm" />
   </a>
 </p>
-</details>
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hannahnv&show_icons=true&locale=en&layout=compact&theme=calm" alt="hannahnv" /></
