@@ -1,17 +1,22 @@
-<h1 align="center">Hello there👋, I'm Hang Nguyen </h1>
-<h3 align="center">Major in data science and business analytics</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=500&color=F7C142&center=true&vCenter=true&width=500&lines=Hello+there!+👋;I'm+Hang+Nguyen;An+Aspiring+Data+Analyst;or+Data+Engineer;Welcome+to+my+GitHub+Profile!" />
+</h1>
+
+<h3 align="center">Major in data science and business analytics 📊</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hannahnv&label=Profile%20views&color=0e75b6&style=flat" alt="hannahnv" /> </p>
 
-- 🌱 I’m currently learning **everything in life 🤣.**
+- 🚀 **Always learning** – from coding to life hacks (and everything in between) 🤓
 
-- ⚡ Fun fact **I Love swimming and table tennis**
+- ✍️ In my free time, I enjoy **writing and sharing knowledge** with the community on [Medium](https://medium.com/@nvthuyhang).
+
+- ⚡ **Fun fact**: If I’m not at my desk, you’ll probably find me swimming or smashing a table tennis match!  
+
 
 <h3 align="left"> 🌐 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nvthuyhang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nvthuyhang" height="30" width="40" /></a>
 <a href="https://kaggle.com/nguyenvothuyhang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nguyenvothuyhang" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@hannah_29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@hannah_29" height="30" width="40" /></a>
 </p>
 
 ### 💻 Skills:
